@@ -1231,3 +1231,241 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
 	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-03-14 18:33:37,943 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-15 15:16:42,736 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-15 15:37:47,599 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-15 15:37:47,599 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-15 15:37:47,608 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-15 15:37:48,383 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-15 15:37:48,387 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-15 15:37:48,387 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-15 15:37:48,387 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-15 15:41:08,416 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-15 15:41:08,416 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-15 15:41:08,417 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-15 15:41:08,422 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-15 15:41:08,426 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-15 15:41:08,426 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-15 15:41:08,426 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-15 15:54:59,017 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-15 15:54:59,043 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-15 15:54:59,043 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-15 15:54:59,056 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-15 15:54:59,058 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-15 15:54:59,058 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-15 15:54:59,058 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-15 15:55:45,853 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-15 15:55:45,854 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-15 15:55:45,854 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-15 15:55:45,864 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-15 15:55:45,867 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-15 15:55:45,868 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-15 15:55:45,868 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-15 16:26:49,750 [Worker-41: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-15 16:26:49,752 [Worker-41: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-15 16:26:49,753 [Worker-41: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-15 16:26:49,782 [Worker-41: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-15 16:26:49,786 [Worker-41: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-15 16:26:49,786 [Worker-41: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-15 16:26:49,786 [Worker-41: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-15 16:33:48,550 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-15 16:34:47,128 [Worker-5: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-15 16:34:47,129 [Worker-5: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-15 16:34:47,135 [Worker-5: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-15 16:34:48,183 [Worker-5: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-15 16:34:48,187 [Worker-5: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-15 16:34:48,187 [Worker-5: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-15 16:34:48,187 [Worker-5: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-15 19:54:01,340 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-16 11:23:23,773 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-16 11:48:31,941 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sisger:DSCatalog-24:0.0.1-SNAPSHOT @ D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\pom.xml.
+2024-03-16 11:48:32,581 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/2.4.4/spring-boot-starter-validation-2.4.4.pom
+2024-03-16 11:48:32,601 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/2.4.4/spring-boot-starter-validation-2.4.4.pom
+2024-03-16 11:48:32,639 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.1.7.Final/hibernate-validator-6.1.7.Final.pom
+2024-03-16 11:48:32,657 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.1.7.Final/hibernate-validator-6.1.7.Final.pom
+2024-03-16 11:48:32,693 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-parent/6.1.7.Final/hibernate-validator-parent-6.1.7.Final.pom
+2024-03-16 11:48:32,745 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-parent/6.1.7.Final/hibernate-validator-parent-6.1.7.Final.pom
+2024-03-16 11:48:32,782 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.6.0.Final/arquillian-bom-1.6.0.Final.pom
+2024-03-16 11:48:32,786 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.6.0.Final/arquillian-bom-1.6.0.Final.pom
+2024-03-16 11:48:32,818 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.6/shrinkwrap-bom-1.2.6.pom
+2024-03-16 11:48:32,823 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.6/shrinkwrap-bom-1.2.6.pom
+2024-03-16 11:48:32,856 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/3.1.4/shrinkwrap-resolver-bom-3.1.4.pom
+2024-03-16 11:48:32,859 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/3.1.4/shrinkwrap-resolver-bom-3.1.4.pom
+2024-03-16 11:48:32,892 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.6.3/maven-3.6.3.pom
+2024-03-16 11:48:32,975 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.6.3/maven-3.6.3.pom
+2024-03-16 11:48:33,011 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0/shrinkwrap-descriptors-bom-2.0.0.pom
+2024-03-16 11:48:33,014 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0/shrinkwrap-descriptors-bom-2.0.0.pom
+2024-03-16 11:48:33,046 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.pom
+2024-03-16 11:48:33,050 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.pom
+2024-03-16 11:48:33,189 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/2.4.4/spring-boot-starter-validation-2.4.4.jar
+2024-03-16 11:48:33,191 [Worker-19: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/2.4.4/spring-boot-starter-validation-2.4.4.jar
+2024-03-16 11:48:33,224 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.1.7.Final/hibernate-validator-6.1.7.Final.jar
+2024-03-16 11:48:33,273 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.jar
+2024-03-16 11:48:33,307 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.jar
+2024-03-16 11:48:33,337 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.1.7.Final/hibernate-validator-6.1.7.Final.jar
+2024-03-16 11:48:34,544 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-16 11:48:34,545 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-16 11:48:34,552 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-16 11:48:34,634 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-16 11:48:34,678 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-16 11:48:34,678 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-16 11:48:34,678 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-16 11:48:35,237 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/2.4.4/spring-boot-starter-validation-2.4.4-sources.jar
+2024-03-16 11:48:35,243 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/2.4.4/spring-boot-starter-validation-2.4.4-sources.jar
+2024-03-16 11:48:35,286 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-validation:2.4.4
+2024-03-16 11:48:35,396 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.1.7.Final/hibernate-validator-6.1.7.Final-sources.jar
+2024-03-16 11:48:35,521 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.1.7.Final/hibernate-validator-6.1.7.Final-sources.jar
+2024-03-16 11:48:35,526 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.validator:hibernate-validator:6.1.7.Final
+2024-03-16 11:48:35,628 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2-sources.jar
+2024-03-16 11:48:35,667 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2-sources.jar
+2024-03-16 11:48:35,676 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.validation:jakarta.validation-api:2.0.2
+2024-03-16 12:11:44,022 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-16 16:53:16,418 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-17 10:43:43,990 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-17 10:43:52,614 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 10:43:52,614 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 10:43:52,618 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 10:43:52,733 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 10:43:52,737 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 10:43:52,737 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 10:43:52,737 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 11:14:32,773 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:14:32,780 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:14:32,785 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 11:14:32,844 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 11:14:32,851 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:14:32,851 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:14:32,863 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 11:15:30,428 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:15:30,428 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:15:30,428 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 11:15:30,475 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 11:15:30,479 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:15:30,489 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:15:30,489 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 11:23:19,623 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:23:19,623 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:23:19,626 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 11:23:19,643 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 11:23:19,651 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:23:19,651 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:23:19,651 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 11:28:08,446 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:28:08,447 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:28:08,448 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 11:28:08,460 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 11:28:08,466 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:28:08,466 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:28:08,466 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 11:28:10,761 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:28:10,761 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:28:10,762 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 11:28:10,771 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 11:28:10,775 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:28:10,776 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:28:10,776 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 11:28:29,676 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:28:29,676 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:28:29,676 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 11:28:29,691 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 11:28:29,691 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:28:29,691 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:28:29,691 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 11:31:49,992 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:31:49,992 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:31:49,992 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 11:31:50,001 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 11:31:50,006 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:31:50,006 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:31:50,006 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 11:31:56,090 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:31:56,090 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:31:56,091 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 11:31:56,102 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 11:31:56,107 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:31:56,107 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:31:56,107 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 11:37:27,011 [Worker-37: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:37:27,011 [Worker-37: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:37:27,012 [Worker-37: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 11:37:27,032 [Worker-37: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 11:37:27,040 [Worker-37: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:37:27,040 [Worker-37: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:37:27,040 [Worker-37: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 11:40:47,506 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:40:47,506 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:40:47,507 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 11:40:47,542 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 11:40:47,547 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 11:40:47,547 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 11:40:47,547 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 19:21:36,473 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:21:36,488 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:21:36,516 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 19:21:36,658 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 19:21:36,665 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:21:36,665 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:21:36,665 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 19:24:03,062 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:24:03,063 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:24:03,063 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 19:24:03,086 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 19:24:03,088 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:24:03,089 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:24:03,089 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 19:24:26,870 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:24:26,870 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:24:26,870 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 19:24:26,880 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 19:24:26,884 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:24:26,884 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:24:26,884 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 19:24:36,815 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:24:36,815 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:24:36,816 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 19:24:36,838 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 19:24:36,840 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:24:36,840 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:24:36,840 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 19:40:00,045 [Worker-58: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:40:00,045 [Worker-58: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:40:00,046 [Worker-58: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 19:40:00,071 [Worker-58: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 19:40:00,075 [Worker-58: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:40:00,075 [Worker-58: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:40:00,076 [Worker-58: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 19:43:15,035 [Worker-66: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:43:15,035 [Worker-66: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:43:15,035 [Worker-66: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 19:43:15,048 [Worker-66: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 19:43:15,051 [Worker-66: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:43:15,051 [Worker-66: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:43:15,051 [Worker-66: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-17 19:46:05,302 [Worker-71: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:46:05,302 [Worker-71: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:46:05,302 [Worker-71: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-17 19:46:05,314 [Worker-71: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-17 19:46:05,319 [Worker-71: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-17 19:46:05,319 [Worker-71: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-17 19:46:05,320 [Worker-71: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-18 07:44:49,624 [Worker-78: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-18 07:44:49,636 [Worker-78: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-18 07:44:49,638 [Worker-78: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-18 07:44:49,865 [Worker-78: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-18 07:44:49,874 [Worker-78: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-18 07:44:49,874 [Worker-78: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-18 07:44:49,875 [Worker-78: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-18 07:47:04,935 [Worker-79: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-18 07:47:04,935 [Worker-79: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-18 07:47:04,935 [Worker-79: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-18 07:47:04,987 [Worker-79: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-18 07:47:04,989 [Worker-79: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-18 07:47:04,989 [Worker-79: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-18 07:47:04,989 [Worker-79: Launching backend - DsCatalog24Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
+2024-03-18 07:49:22,870 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-18 07:49:22,870 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-18 07:49:22,871 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-18 07:49:22,886 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-18 07:49:22,891 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-18 07:49:22,891 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-03-18 07:49:22,891 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WorkSpaceJava\ws-bootcamp\dscatalog-24\backend\src\test\resources
