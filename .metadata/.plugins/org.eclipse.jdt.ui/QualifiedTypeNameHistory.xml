@@ -18,7 +18,7 @@
     <fullyQualifiedTypeName name="org.springframework.web.client.HttpServerErrorException"/>
     <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServletRequest"/>
     <fullyQualifiedTypeName name="java.time.Instant"/>
-    <fullyQualifiedTypeName name="com.sisger.DSCatalog24.services.exceptions.EntityNotFoundException"/>
     <fullyQualifiedTypeName name="org.hibernate.annotations.Table"/>
     <fullyQualifiedTypeName name="org.springframework.data.annotation.Id"/>
+    <fullyQualifiedTypeName name="com.sisger.DSCatalog24.services.exceptions.EntityNotFoundException"/>
 </qualifiedTypeNameHistroy>
